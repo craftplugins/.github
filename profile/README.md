@@ -1,4 +1,4 @@
-**This repository of plugins for Craft CMS has been archived.**
+### This repository of plugins for Craft CMS has been archived.
 
 Over the years, these plugins have been integrated into thousands of websites, playing a crucial role in many projects. 
 
